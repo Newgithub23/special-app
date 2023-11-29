@@ -1,0 +1,4 @@
+# errors.log
+# *.log
+logs/*.log
+!logs/sempl.log
